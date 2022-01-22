@@ -13,3 +13,8 @@ this is the heading and sub heading.
 this is a new paragraph.
 
 this is paragraph two.
+
+these are points.
+
+images of cats.
+
