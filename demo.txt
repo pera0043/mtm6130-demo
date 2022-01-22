@@ -9,3 +9,7 @@ here is a file modification.
 here is the navigation.
 
 this is the heading and sub heading.
+
+this is a new paragraph.
+
+this is paragraph two.
