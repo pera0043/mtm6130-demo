@@ -5,3 +5,7 @@ my cats name is mittens..
 trying to commit again-step1
 
 here is a file modification.
+
+here is the navigation.
+
+this is the heading and sub heading.
